@@ -1,4 +1,4 @@
-# lab-01-markdown
+# markdown
 
 # Some small change.
 
